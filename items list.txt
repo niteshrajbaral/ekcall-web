@@ -1,0 +1,37 @@
+model-819.jpg Commode 819 Rs.16500 
+model-840.jpg Commode 840 Rs.19000
+model-8313.jpg Commode 8313 Rs.16500
+model-841-2.jpg Commode 841 Rs.22000 
+model-852.jpg Commode 852 Rs.13000 
+model-822.jpg Commode 822 rs.24000
+
+black-border-mirror-1.png rs. 5000
+
+white-sink-1.jpg rs. 14500
+black-sink-1.png rs. 19500
+
+black-tap-1.png rs.7500
+black-faucets-1.png rs.6500
+
+fuzex-single-lever-swan-neck.png 	rs.4100
+fuzex-sink-cock.jpg 			rs 3600
+fuzex-sink-mixture.jpg			rs. 6800
+fuzex-wall-mixture-with-bend.jpg  	rs. 7300
+
+fuzex-single-lever-tall-boy.jpg
+fuzex-single-lever-sink-mixture.jpg
+flowmax-wall-mixer-with-bend.jpg
+fuzex center hole basin mixture.jpg
+Fuzex bib cock.jpg
+fuzex long body.jpg
+
+np register-	ekcallhs@gmail.com
+password-	Ekcall640@
+google maps api-AIzaSyCw9CipPlp1d30zJoleXxeVqpSEHMCnIPY
+
+phpmyadmin user: root
+	   pass: root
+database user: 	root
+	password: root
+wordpress username: root
+	passwaord: Ekcall@123#!
